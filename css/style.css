@@ -187,7 +187,13 @@ li {
   -moz-writing-mode: vertical-rl;
   -ms-writing-mode: tb-rl;
 }
+
 #products2 .text {
   background: rgba(149, 42, 38, 0.6);
   right: -20px;
+}
+
+#shop iframe {       /*HTMLの入れ子構造*/
+  width: 100%;
+  vertical-align: bottom;
 }
