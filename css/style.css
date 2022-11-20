@@ -242,3 +242,9 @@ li {
   font-size: 0.625rem;
   text-align: center;
 }
+
+@media screen and (max-width: 768px) {
+  .wrapper {
+    max-width: 100%;
+  }
+}
