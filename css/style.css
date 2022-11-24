@@ -323,3 +323,34 @@ li {
   font-size: 0.875rem;
   padding: 30px 0;
 }
+
+#products1 .section-title {
+  margin-left: 10px;
+}
+
+/*-------------------------------------------
+Products2
+-------------------------------------------*/
+#products2 .section-title {
+  margin-right: 10px;
+}
+
+/*-------------------------------------------
+フッター
+-------------------------------------------*/
+#footer {
+  padding: 40px 20px 30px 20px;
+}
+
+#footer .inner .logo {
+  margin-left: 25px;
+}
+
+#footer .menu li {
+  margin-left: 10px;
+}
+
+#footer .menu {
+  font-size: 0.875rem;
+  margin-right: 25px;
+}
